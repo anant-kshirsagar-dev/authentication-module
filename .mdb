@@ -1,0 +1,8 @@
+{
+  "projectName": "authentication-module",
+  "meta": {
+    "type": "frontend"
+  },
+  "packageManager": "npm",
+  "hash": "06e0ee13"
+}
